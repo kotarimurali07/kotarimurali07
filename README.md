@@ -24,5 +24,8 @@
  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/git-icon.svg" alt="Git" width="25px" height="25px"></a>
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="25px" height="25px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="25px" height="25px"></a>
+<a href="" title="C"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/c.svg" alt="C" width="25px" height="25px"></a>
 
+  [![Stats](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotarimurali07&theme=tokyonight)
 
