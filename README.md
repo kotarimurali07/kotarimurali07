@@ -28,4 +28,5 @@
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotarimurali07&theme=tokyonight)
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kotarimurali07&theme=dark" alt="kotarimurali07" /></p>
 
