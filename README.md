@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+  [![Visits Badge](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)
 <h3 align="left">Connect with me:</h3>
 
 
