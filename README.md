@@ -106,7 +106,10 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=kotarimurali07&theme=gruvbox&hide_border=true&area=true)
+[![Murali's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kotarimurali07&theme=react-dark&hide_border=true&area=true)](https://git.io/kotarimurali07)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotarimurali07&theme=tokyonight)
+ 
+ <img src="https://github-profile-trophy.vercel.app/?username=kotarimurali07&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 
 <br/>
 
