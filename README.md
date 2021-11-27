@@ -3,7 +3,7 @@
 
 <h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Murali</a> -  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Enthusiast+in20%technologies;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Enthusiast+in+technologies;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
@@ -85,6 +85,10 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="codeblocks" src="https://img.shields.io/badge/codeblocks%20-%23E34F26.svg?logo=C&logoColor=white"></a>
+ &emsp;
+  <a href="#"><img alt="pycharm" src="https://img.shields.io/badge/-pycharm%20-2334A853?logo=pycharm&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
