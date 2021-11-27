@@ -10,10 +10,7 @@
   
   - 🔭 I’m currently pursuing my IV B.Tech in Andhrapradesh, India
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 
 
 ## 🛠️ My Skills
