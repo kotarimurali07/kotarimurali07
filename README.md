@@ -6,7 +6,7 @@
 <hr/>
 
   [![Visits Badge](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
   
   - 🔭 I’m currently pursuing my IV B.Tech in Andhrapradesh, India
 <br>
