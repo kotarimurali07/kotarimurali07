@@ -31,7 +31,12 @@
 
 </p>
  
+### 👉 Databases & Cloud Hosting
+<p align="left">
 
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+ </p>
 
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&theme=tokyonight)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
