@@ -97,7 +97,12 @@
 <br/>
 
 
+### 🔥 Streak Stats
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kotarimurali07&theme=gruvbox" alt="kotarimurali07"  /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kotarimurali07&theme=dark" alt="kotarimurali07" /></p>
+<!-- <p  >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kotarimurali07&show_icons=true&locale=en&theme=dark" alt="kotarimurali07" /></p> -->
 
+<hr>
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
