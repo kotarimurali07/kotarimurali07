@@ -93,8 +93,7 @@
 
 <br/>
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kotarimurali07&theme=gruvbox" alt="kotarimurali07"  /></p>
+
 
 <hr>
 <p align="center">
