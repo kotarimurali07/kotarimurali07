@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Enthusiast%20in%20%technologies;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
- [![Visits Badge](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)
+
+  [![Visits Badge](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m currently pursuing my IV B.Tech in Andhrapradesh, India
