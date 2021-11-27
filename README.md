@@ -10,7 +10,9 @@
   [![Visits Badge](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)](https://badges.pufler.dev/visits/kotarimurali07/kotarimurali07)
 
   
-  - 🔭 I’m currently pursuing my IV B.Tech in Andhrapradesh, India
+  - 🔭 I’m currently pursuing my III B.Tech in Andhrapradesh, India
+  - 💬 Ask me about web and mobile development
+  - 📫 How to reach me **kotarimurali07@gmail.com**
 <br>
 
 
