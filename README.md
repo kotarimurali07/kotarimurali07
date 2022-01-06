@@ -115,7 +115,7 @@
 
 
 
-[![Murali's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kotarimurali07&theme=react-dark&hide_border=true&area=true)](https://git.io/kotarimurali07)
+<!-- [![Murali's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kotarimurali07&theme=react-dark&hide_border=true&area=true)](https://git.io/kotarimurali07) -->
 
 
 <br/>
